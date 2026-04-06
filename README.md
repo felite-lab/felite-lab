@@ -1,11 +1,6 @@
-# 👋 Hi, I'm Felite
+# 👋I'm Felite
 
-> LLMs burn tokens.
-> I burn bananas.
->
-> **Probably AGI.** 🍌
 
----
 
 ## 🧪 About Me
 
